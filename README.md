@@ -15,7 +15,8 @@ Este portfólio foi desenvolvido como evolução do projeto de sala de aula util
 - Git e GitHub Pages
 
 ## Link do Site Publicado
-[Acesse o portfólio online aqui]
+[Acesse o portfólio online aqui](https://diogocreator.github.io/diogorocha_ds_i_portfolio/)
+
 
 ## Explicação do Funcionamento do Projeto
 O site foi construído sob o conceito de página única (*Single Page*) e conta com uma barra de navegação fixa no topo (`navbar`) que permite ao usuário alternar de forma fluida e suave entre as seções: **Perfil**, **Habilidades**, **Projetos** e **Contato**.
